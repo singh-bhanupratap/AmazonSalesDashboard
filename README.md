@@ -1,4 +1,4 @@
-# AmazonSalesDashboard
+# Amazon Sales Dashboard
 
 This project presents a detailed sales performance analysis of Amazon product data using an interactive Power BI dashboard, with DAX-powered calculations and time intelligence functionalities. The analysis leverages the following datasets:
 
